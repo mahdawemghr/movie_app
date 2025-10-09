@@ -15,31 +15,36 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.cyan),
       ),
       debugShowCheckedModeBanner: false,
-      home: const MyHomePage(title: 'Flutter Demo Home Page'),
+      home: Home(),
     );
   }
 }
 
-class MyHomePage extends StatefulWidget {
-  const MyHomePage({super.key, required this.title});
-  final String title;
+class Home extends StatefulWidget {
+  const Home({super.key});
 
   @override
-  State<MyHomePage> createState() => _MyHomePageState();
+  State<Home> createState() => HomeState();
 }
 
-class _MyHomePageState extends State<MyHomePage> {
+class HomeState extends State<Home> {
+  final _movieList = <String>[
+    
+  ];
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
         title: Text("Movie App"),
-        backgroundColor: Theme.of(context).colorScheme.inversePrimary,
+        backgroundColor: Color(Colors.grey.value),
       ),
       body: Center(
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: [],
+        child: ListView.builder(
+          itemCount: _movieList.length,
+          itemBuilder: (context, index) {
+            return Text(_movieList[index]);
+          },
         ),
       ),
     );
