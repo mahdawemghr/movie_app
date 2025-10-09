@@ -1,7 +1,14 @@
 import 'package:flutter/material.dart';
+import 'package:movie_app/providers/movie_provider.dart';
+import 'package:provider/provider.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(
+    ChangeNotifierProvider(
+      create: (context) => MovieProvider(),
+      child: const MyApp(),
+    ),
+  );
 }
 
 class MyApp extends StatelessWidget {
@@ -28,12 +35,9 @@ class Home extends StatefulWidget {
 }
 
 class HomeState extends State<Home> {
-  final _movieList = <String>[
-    
-  ];
-
   @override
   Widget build(BuildContext context) {
+    final movies = Provider.of<MovieProvider>(context).loadMovies();
     return Scaffold(
       appBar: AppBar(
         title: Text("Movie App"),
@@ -41,9 +45,15 @@ class HomeState extends State<Home> {
       ),
       body: Center(
         child: ListView.builder(
-          itemCount: _movieList.length,
+          itemCount: movies.length,
           itemBuilder: (context, index) {
-            return Text(_movieList[index]);
+            return ListTile(
+              title: Text(movies[index]),
+              leading: Text(movies[index][0]),
+              subtitle: Text("data"),
+              trailing: Icon(Icons.add),
+            );
+            // return Card(child: Center(child: Text(movies[index])));
           },
         ),
       ),

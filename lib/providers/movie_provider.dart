@@ -10,4 +10,10 @@ class MovieProvider extends ChangeNotifier {
     "Pulp Fiction",
     "Schindler's List",
   ];
+
+  List<String> get movieList => _movieList;
+
+  List<String> loadMovies() {
+    return _movieList;
+  }
 }
