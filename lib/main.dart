@@ -57,10 +57,11 @@ class HomeState extends State<Home> {
             return ListTile(
               title: Text(movieData.movieList[index].title),
               leading: Text(movieData.movieList[index].title[0]),
-              subtitle: Text(
-                "Rating: ${movieData.movieList[index].rated}",
+              subtitle: Text("Rating: ${movieData.movieList[index].rated}"),
+              trailing: ElevatedButton(
+                onPressed: () {},
+                child: Icon(Icons.add),
               ),
-              trailing: Icon(Icons.movie_outlined),
             );
             // return Card(child: Center(child: Text(movies[index])));
           },
