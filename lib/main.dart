@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Flutter Demo',
       theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.cyan),
+        colorScheme: ColorScheme.fromSeed(seedColor: Colors.grey),
       ),
       debugShowCheckedModeBanner: false,
       home: Home(),
@@ -36,22 +36,31 @@ class Home extends StatefulWidget {
 
 class HomeState extends State<Home> {
   @override
+  void initState() {
+    Provider.of<MovieProvider>(context, listen: false).loadMovies(context);
+    super.initState();
+  }
+
+  @override
   Widget build(BuildContext context) {
-    final movies = Provider.of<MovieProvider>(context).loadMovies();
+    final movieData = Provider.of<MovieProvider>(context);
+
     return Scaffold(
       appBar: AppBar(
         title: Text("Movie App"),
-        backgroundColor: Color(Colors.grey.value),
+        backgroundColor: Theme.of(context).primaryColor,
       ),
       body: Center(
         child: ListView.builder(
-          itemCount: movies.length,
+          itemCount: movieData.movieList.length,
           itemBuilder: (context, index) {
             return ListTile(
-              title: Text(movies[index]),
-              leading: Text(movies[index][0]),
-              subtitle: Text("data"),
-              trailing: Icon(Icons.add),
+              title: Text(movieData.movieList[index].title),
+              leading: Text(movieData.movieList[index].title[0]),
+              subtitle: Text(
+                "Rating: ${movieData.movieList[index].rated}",
+              ),
+              trailing: Icon(Icons.movie_outlined),
             );
             // return Card(child: Center(child: Text(movies[index])));
           },
