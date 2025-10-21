@@ -11,7 +11,9 @@
     "country": "USA",
     "poster": "https://image.tmdb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
     "type": "Drama",
-    "images": "https://image.tmdb.org/t/p/w500/xBKGJQsAIeweesB79KC89FpBrVr.jpg"
+    "images": "https://image.tmdb.org/t/p/w500/xBKGJQsAIeweesB79KC89FpBrVr.jpg",
+    "plot": "Banker Andy Dufresne is wrongfully imprisoned for the murder of his wife and her lover. At Shawshank Prison, he befriends fellow inmate Red, uses his intellect to help the warden, and secretly plans his escape over two decades.",
+    "description": "A profound story about hope, friendship, and human resilience within a corrupt prison system. It explores perseverance and redemption through quiet defiance."
   },
   {
     "title": "The Godfather",
@@ -25,7 +27,9 @@
     "country": "USA",
     "poster": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
     "type": "Crime, Drama",
-    "images": "https://image.tmdb.org/t/p/w500/rPdtLWNsZmAtoZl9PK7S2wE3qiS.jpg"
+    "images": "https://image.tmdb.org/t/p/w500/rPdtLWNsZmAtoZl9PK7S2wE3qiS.jpg",
+    "plot": "Don Vito Corleone, the aging patriarch of a powerful crime family, transfers control to his reluctant son Michael, who is slowly drawn into the violent world of organized crime.",
+    "description": "A cinematic masterpiece depicting the rise and fall of a mafia family, showing loyalty, power, and corruption in post-war America."
   },
   {
     "title": "The Dark Knight",
@@ -39,7 +43,9 @@
     "country": "USA, UK",
     "poster": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
     "type": "Action, Crime, Drama",
-    "images": "https://image.tmdb.org/t/p/w500/hqkIcbrOHL86UncnHIsHVcVmzue.jpg"
+    "images": "https://image.tmdb.org/t/p/w500/hqkIcbrOHL86UncnHIsHVcVmzue.jpg",
+    "plot": "Batman, Lieutenant Gordon, and District Attorney Harvey Dent form an alliance to stop organized crime in Gotham until the Joker brings chaos and moral conflict to the city.",
+    "description": "A gritty superhero epic exploring chaos versus order, with themes of morality, justice, and sacrifice."
   },
   {
     "title": "Pulp Fiction",
@@ -53,7 +59,9 @@
     "country": "USA",
     "poster": "https://image.tmdb.org/t/p/w500/dM2w364MScsjFf8pfMbaWUcWrR.jpg",
     "type": "Crime, Drama",
-    "images": "https://image.tmdb.org/t/p/w500/9rZg1J6vMQoDVSgRyWcpJa8IAGy.jpg"
+    "images": "https://image.tmdb.org/t/p/w500/9rZg1J6vMQoDVSgRyWcpJa8IAGy.jpg",
+    "plot": "Interwoven stories of crime and redemption follow hitmen, a boxer, and gangsters in Los Angeles through violence, dark humor, and coincidence.",
+    "description": "A nonlinear crime saga blending humor and brutality, redefining modern cinema through its dialogue and storytelling."
   },
   {
     "title": "Fight Club",
@@ -67,7 +75,9 @@
     "country": "USA, Germany",
     "poster": "https://image.tmdb.org/t/p/w500/bptfVGEQuv6vDTIMVCHjJ9Dz8PX.jpg",
     "type": "Drama",
-    "images": "https://image.tmdb.org/t/p/w500/87hTDiay2N2qWyX4Ds7ybXi9h8I.jpg"
+    "images": "https://image.tmdb.org/t/p/w500/87hTDiay2N2qWyX4Ds7ybXi9h8I.jpg",
+    "plot": "An insomniac office worker and a soap salesman form a fight club that spirals into a violent revolution challenging consumer culture and identity.",
+    "description": "A psychological exploration of alienation and rebellion against modern society, revealing the duality of human nature."
   },
   {
     "title": "Inception",
@@ -81,7 +91,9 @@
     "country": "USA, UK",
     "poster": "https://image.tmdb.org/t/p/w500/edv5CZvWj09upOsy2Y6IwDhK8bt.jpg",
     "type": "Action, Sci-Fi",
-    "images": "https://image.tmdb.org/t/p/w500/s2bT29y0ngXxxu2IA8AOzzXTRhd.jpg"
+    "images": "https://image.tmdb.org/t/p/w500/s2bT29y0ngXxxu2IA8AOzzXTRhd.jpg",
+    "plot": "A skilled thief who steals secrets through dreams is tasked with planting an idea in a target’s subconscious, leading to a journey through layers of dreams and reality.",
+    "description": "A mind-bending heist thriller blending science fiction with emotional depth about loss, guilt, and perception."
   },
   {
     "title": "Forrest Gump",
@@ -95,7 +107,9 @@
     "country": "USA",
     "poster": "https://image.tmdb.org/t/p/w500/saHP97rTPS5eLmrLQEcANmKrsFl.jpg",
     "type": "Drama, Romance",
-    "images": "https://image.tmdb.org/t/p/w500/4f0QxP9DkI64xj5cwGkEDuVNQvC.jpg"
+    "images": "https://image.tmdb.org/t/p/w500/4f0QxP9DkI64xj5cwGkEDuVNQvC.jpg",
+    "plot": "Simple-minded yet kind-hearted Forrest Gump unwittingly influences major historical events while pursuing his lifelong love Jenny.",
+    "description": "A heartfelt chronicle of an innocent man’s journey through American history, showing kindness, destiny, and perseverance."
   },
   {
     "title": "Interstellar",
@@ -109,7 +123,9 @@
     "country": "USA, UK, Canada",
     "poster": "https://image.tmdb.org/t/p/w500/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg",
     "type": "Sci-Fi, Adventure, Drama",
-    "images": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg"
+    "images": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "plot": "A team of astronauts travels through a wormhole to find a new home for humanity as Earth becomes uninhabitable, confronting love, time, and sacrifice.",
+    "description": "An epic exploration of human survival, science, and emotion through stunning visuals and philosophical questions."
   },
   {
     "title": "Dune: Part Two",
@@ -122,8 +138,10 @@
     "language": "English",
     "country": "United States",
     "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Dune_Part_Two_poster.jpg/220px-Dune_Part_Two_poster.jpg",
-    "type": "science fiction",
-    "images": "https://upload.wikimedia.org/wikipedia/en/f/f9/Dune_Part_Two_poster.jpg"
+    "type": "Science Fiction",
+    "images": "https://upload.wikimedia.org/wikipedia/en/f/f9/Dune_Part_Two_poster.jpg",
+    "plot": "Paul Atreides allies with the Fremen of Arrakis to seek revenge against his family's enemies and fulfill his prophetic destiny amid interstellar politics.",
+    "description": "A visually grand continuation exploring destiny, faith, and power in a desert world of survival and rebellion."
   },
   {
     "title": "Napoleon",
@@ -136,8 +154,10 @@
     "language": "English",
     "country": "United States",
     "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Napoleon_%282023_film%29.jpg/220px-Napoleon_%282023_film%29.jpg",
-    "type": "historical drama",
-    "images": "https://upload.wikimedia.org/wikipedia/en/3/36/Napoleon_%282023_film%29.jpg"
+    "type": "Historical Drama",
+    "images": "https://upload.wikimedia.org/wikipedia/en/3/36/Napoleon_%282023_film%29.jpg",
+    "plot": "The rise and fall of French Emperor Napoleon Bonaparte, from his brilliant military victories to his obsessive love for Josephine and ultimate downfall.",
+    "description": "A sweeping historical portrayal of ambition, power, and human complexity from one of history’s most fascinating figures."
   },
   {
     "title": "The Marvels",
@@ -145,13 +165,15 @@
     "rated": "PG-13",
     "released": "November 10, 2023",
     "director": "Nia DaCosta",
-    "writer": "Megan McDonnell, Nia DaCosta",
-    "actors": "Brie Larson, Iman Vellani, Teyonah Parris, Zawe Ashton",
+    "writer": "Nia DaCosta, Megan McDonnell, Elissa Karasik",
+    "actors": "Brie Larson, Teyonah Parris, Iman Vellani, Zawe Ashton",
     "language": "English",
     "country": "United States",
-    "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/The_Marvels_poster.jpg/220px-The_Marvels_poster.jpg",
-    "type": "superhero",
-    "images": "https://upload.wikimedia.org/wikipedia/en/9/98/The_Marvels_poster.jpg"
+    "poster": "https://upload.wikimedia.org/wikipedia/en/6/60/The_Marvels_%28film%29_poster.jpg",
+    "type": "Action, Adventure, Sci-Fi",
+    "images": "https://upload.wikimedia.org/wikipedia/en/6/60/The_Marvels_%28film%29_poster.jpg",
+    "plot": "When Carol Danvers, Kamala Khan, and Monica Rambeau find their powers entangled, they must team up to stop a new Kree threat and restore balance across galaxies.",
+    "description": "A fast-paced superhero adventure connecting three powerful heroines across space and dimensions in the Marvel universe."
   },
   {
     "title": "Wonka",
@@ -159,13 +181,15 @@
     "rated": "PG",
     "released": "December 15, 2023",
     "director": "Paul King",
-    "writer": "Paul King, Simon Farnaby",
-    "actors": "Timothée Chalamet, Olivia Colman, Keegan-Michael Key",
+    "writer": "Simon Farnaby, Paul King",
+    "actors": "Timothée Chalamet, Calah Lane, Keegan-Michael Key, Hugh Grant",
     "language": "English",
-    "country": "United Kingdom",
-    "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Wonka_2023_film_poster.png/220px-Wonka_2023_film_poster.png",
-    "type": "musical fantasy",
-    "images": "https://upload.wikimedia.org/wikipedia/en/6/68/Wonka_2023_film_poster.png"
+    "country": "United Kingdom, United States",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Wonka_film_poster.jpg/220px-Wonka_film_poster.jpg",
+    "type": "Fantasy, Musical, Adventure",
+    "images": "https://upload.wikimedia.org/wikipedia/en/0/0c/Wonka_film_poster.jpg",
+    "plot": "A young Willy Wonka sets out to open his first chocolate shop, facing greedy rivals and impossible odds with the power of imagination and kindness.",
+    "description": "An enchanting origin story of the world’s greatest chocolatier, filled with whimsy, music, and optimism."
   },
   {
     "title": "Aquaman and the Lost Kingdom",
@@ -177,9 +201,11 @@
     "actors": "Jason Momoa, Patrick Wilson, Amber Heard, Yahya Abdul-Mateen II",
     "language": "English",
     "country": "United States",
-    "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Aquaman_and_the_Lost_Kingdom_poster.jpg/220px-Aquaman_and_the_Lost_Kingdom_poster.jpg",
-    "type": "superhero",
-    "images": "https://upload.wikimedia.org/wikipedia/en/3/3b/Aquaman_and_the_Lost_Kingdom_poster.jpg"
+    "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Aquaman_and_the_Lost_Kingdom_poster.jpg/220px-Aquaman_and_the_Lost_Kingdom_poster.jpg",
+    "type": "Action, Fantasy, Adventure",
+    "images": "https://upload.wikimedia.org/wikipedia/en/8/8b/Aquaman_and_the_Lost_Kingdom_poster.jpg",
+    "plot": "Aquaman must team up with his brother Orm to stop Black Manta, who wields a powerful ancient artifact threatening to destroy Atlantis and the surface world.",
+    "description": "A high-stakes underwater epic about family, redemption, and unity in the face of a global threat."
   },
   {
     "title": "Mission: Impossible – Dead Reckoning Part One",
@@ -191,9 +217,11 @@
     "actors": "Tom Cruise, Hayley Atwell, Ving Rhames, Simon Pegg",
     "language": "English",
     "country": "United States",
-    "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Mission_Impossible_-_Dead_Reckoning_Part_One_poster.jpg/220px-Mission_Impossible_-_Dead_Reckoning_Part_One_poster.jpg",
-    "type": "action spy",
-    "images": "https://upload.wikimedia.org/wikipedia/en/4/4b/Mission_Impossible_-_Dead_Reckoning_Part_One_poster.jpg"
+    "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Mission_Impossible_-_Dead_Reckoning_Part_One_poster.jpg/220px-Mission_Impossible_-_Dead_Reckoning_Part_One_poster.jpg",
+    "type": "Action, Thriller, Adventure",
+    "images": "https://upload.wikimedia.org/wikipedia/en/4/4d/Mission_Impossible_-_Dead_Reckoning_Part_One_poster.jpg",
+    "plot": "Ethan Hunt and his IMF team race against time to prevent a rogue AI from endangering humanity, facing betrayal and moral dilemmas along the way.",
+    "description": "A relentless spy thriller showcasing practical stunts, loyalty, and the human struggle against digital dominance."
   },
   {
     "title": "John Wick: Chapter 4",
@@ -201,27 +229,31 @@
     "rated": "R",
     "released": "March 24, 2023",
     "director": "Chad Stahelski",
-    "writer": "Shay Hatten, Michael Finch",
+    "writer": "Shay Hatten, Michael Finch, Derek Kolstad",
     "actors": "Keanu Reeves, Donnie Yen, Bill Skarsgård, Laurence Fishburne",
     "language": "English",
     "country": "United States",
-    "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/John_Wick_Chapter_4.jpg/220px-John_Wick_Chapter_4.jpg",
-    "type": "action thriller",
-    "images": "https://upload.wikimedia.org/wikipedia/en/9/98/John_Wick_Chapter_4.jpg"
+    "poster": "https://upload.wikimedia.org/wikipedia/en/d/d0/John_Wick_-_Chapter_4_promotional_poster.jpg",
+    "type": "Action, Thriller",
+    "images": "https://upload.wikimedia.org/wikipedia/en/d/d0/John_Wick_-_Chapter_4_promotional_poster.jpg",
+    "plot": "John Wick uncovers a path to defeating the High Table, but must face powerful new enemies and old allies across global battlegrounds.",
+    "description": "An explosive continuation of the assassin saga, blending elegance, brutality, and redemption through stunning choreography."
   },
   {
-    "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+    "title": "The Hunger Games: The Ballad of Songbirds and Snakes",
     "year": "2023",
     "rated": "PG-13",
     "released": "November 17, 2023",
     "director": "Francis Lawrence",
-    "writer": "Michael Lesslie, Michael Arndt",
-    "actors": "Tom Blyth, Rachel Zegler, Peter Dinklage, Hunter Schafer",
+    "writer": "Michael Lesslie, Michael Arndt, Suzanne Collins",
+    "actors": "Tom Blyth, Rachel Zegler, Hunter Schafer, Peter Dinklage",
     "language": "English",
     "country": "United States",
-    "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/The_Hunger_Games_The_Ballad_of_Songbirds_%26_Snakes_poster.jpg/220px-The_Hunger_Games_The_Ballad_of_Songbirds_%26_Snakes_poster.jpg",
-    "type": "dystopian action",
-    "images": "https://upload.wikimedia.org/wikipedia/en/d/d1/The_Hunger_Games_The_Ballad_of_Songbirds_%26_Snakes_poster.jpg"
+    "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/The_Hunger_Games_-_The_Ballad_of_Songbirds_%26_Snakes_poster.jpg/220px-The_Hunger_Games_-_The_Ballad_of_Songbirds_%26_Snakes_poster.jpg",
+    "type": "Action, Drama, Sci-Fi",
+    "images": "https://upload.wikimedia.org/wikipedia/en/e/e7/The_Hunger_Games_-_The_Ballad_of_Songbirds_%26_Snakes_poster.jpg",
+    "plot": "A young Coriolanus Snow mentors a tribute from District 12 during the 10th Hunger Games, shaping his descent into tyranny and power.",
+    "description": "A dark prequel exploring ambition, morality, and the origins of Panem’s ruthless ruler."
   },
   {
     "title": "The Creator",
@@ -230,12 +262,14 @@
     "released": "September 29, 2023",
     "director": "Gareth Edwards",
     "writer": "Gareth Edwards, Chris Weitz",
-    "actors": "John David Washington, Madeleine Yuna Voyles, Gemma Chan",
+    "actors": "John David Washington, Madeleine Yuna Voyles, Gemma Chan, Ken Watanabe",
     "language": "English",
     "country": "United States",
-    "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/The_Creator_2023_poster.jpg/220px-The_Creator_2023_poster.jpg",
-    "type": "science fiction",
-    "images": "https://upload.wikimedia.org/wikipedia/en/0/0a/The_Creator_2023_poster.jpg"
+    "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/The_Creator_%282023_film%29_poster.jpg/220px-The_Creator_%282023_film%29_poster.jpg",
+    "type": "Sci-Fi, Action, Drama",
+    "images": "https://upload.wikimedia.org/wikipedia/en/f/f3/The_Creator_%282023_film%29_poster.jpg",
+    "plot": "In a future war between humans and AI, a soldier discovers a child-like AI who may hold the key to ending the conflict—or destroying humanity.",
+    "description": "A visually stunning, emotional exploration of artificial intelligence, morality, and what it means to be human."
   },
   {
     "title": "Guardians of the Galaxy Vol. 3",
@@ -244,12 +278,14 @@
     "released": "May 5, 2023",
     "director": "James Gunn",
     "writer": "James Gunn",
-    "actors": "Chris Pratt, Zoe Saldaña, Dave Bautista, Karen Gillan",
+    "actors": "Chris Pratt, Zoe Saldaña, Dave Bautista, Bradley Cooper",
     "language": "English",
     "country": "United States",
-    "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Guardians_of_the_Galaxy_Vol._3_poster.jpg/220px-Guardians_of_the_Galaxy_Vol._3_poster.jpg",
-    "type": "superhero",
-    "images": "https://upload.wikimedia.org/wikipedia/en/7/74/Guardians_of_the_Galaxy_Vol._3_poster.jpg"
+    "poster": "https://upload.wikimedia.org/wikipedia/en/b/ba/Guardians_of_the_Galaxy_Vol._3_poster.jpg",
+    "type": "Action, Adventure, Comedy",
+    "images": "https://upload.wikimedia.org/wikipedia/en/b/ba/Guardians_of_the_Galaxy_Vol._3_poster.jpg",
+    "plot": "The Guardians embark on a mission to save Rocket’s life, confronting painful pasts and redefining their family bonds.",
+    "description": "A heartfelt, emotional send-off combining humor, action, and found-family themes in Marvel’s cosmic adventure."
   },
   {
     "title": "Spider-Man: Across the Spider-Verse",
@@ -261,9 +297,11 @@
     "actors": "Shameik Moore, Hailee Steinfeld, Oscar Isaac, Jake Johnson",
     "language": "English",
     "country": "United States",
-    "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Spider-Man_Across_the_Spider-Verse_poster.jpg/220px-Spider-Man_Across_the_Spider-Verse_poster.jpg",
-    "type": "animated superhero",
-    "images": "https://upload.wikimedia.org/wikipedia/en/f/fb/Spider-Man_Across_the_Spider-Verse_poster.jpg"
+    "poster": "https://upload.wikimedia.org/wikipedia/en/f/f2/Spider-Man_Across_the_Spider-Verse_poster.jpg",
+    "type": "Animation, Action, Adventure",
+    "images": "https://upload.wikimedia.org/wikipedia/en/f/f2/Spider-Man_Across_the_Spider-Verse_poster.jpg",
+    "plot": "Miles Morales reunites with Gwen Stacy and travels across the multiverse, meeting new Spider-People while confronting destiny and choice.",
+    "description": "A visually revolutionary animated sequel exploring identity, fate, and heroism across infinite worlds."
   },
   {
     "title": "The Super Mario Bros. Movie",
@@ -274,10 +312,11 @@
     "writer": "Matthew Fogel",
     "actors": "Chris Pratt, Anya Taylor-Joy, Charlie Day, Jack Black",
     "language": "English",
-    "country": "United States",
-    "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/The_Super_Mario_Bros._Movie_poster.jpg/220px-The_Super_Mario_Bros._Movie_poster.jpg",
-    "type": "animated adventure",
-    "images": "https://upload.wikimedia.org/wikipedia/en/4/44/The_Super_Mario_Bros._Movie_poster.jpg"
+    "country": "United States, Japan",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/4/44/The_Super_Mario_Bros._Movie_poster.jpg",
+    "type": "Animation, Adventure, Comedy",
+    "images": "https://upload.wikimedia.org/wikipedia/en/4/44/The_Super_Mario_Bros._Movie_poster.jpg",
+    "plot": "Mario and Luigi are transported to the Mushroom Kingdom, where they team up with Princess Peach to stop Bowser from conquering the world.",
+    "description": "A vibrant animated adaptation celebrating the iconic Nintendo franchise with humor, action, and nostalgia."
   }
 ]
-

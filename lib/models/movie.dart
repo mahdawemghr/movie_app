@@ -11,6 +11,8 @@ class Movie {
   final String poster;
   final String type;
   final String images;
+  final String plot;
+  final String description;
 
   Movie({
     required this.title,
@@ -25,6 +27,8 @@ class Movie {
     required this.poster,
     required this.type,
     required this.images,
+    required this.plot,
+    required this.description,
   });
 
   factory Movie.fromJson(Map<String, dynamic> json) {
@@ -41,6 +45,8 @@ class Movie {
       poster: json['poster'] as String,
       type: json['type'] as String,
       images: json['images'] as String,
+      plot: json['plot'] as String,
+      description: json['description'] as String,
     );
   }
 }
