@@ -10,11 +10,30 @@ Card movieCard(Movie movie, BuildContext context, bool flag) {
         title: Text(movie.title),
         subtitle: Text('Director: ${movie.director}'),
         leading: CircleAvatar(
-          backgroundImage: NetworkImage(movie.poster),
-          onBackgroundImageError: (_, __) {},
-          child: Text(movie.title[0]),
+          child: (movie.poster.isNotEmpty)
+              ? ClipOval(
+                  child: Image.network(
+                    movie.poster,
+                    fit: BoxFit.cover,
+                    width: double.infinity,
+                    height: double.infinity,
+                    loadingBuilder: (context, child, loadingProgress) {
+                      if (loadingProgress == null) return child;
+                      return Center(
+                        child: Text(
+                          movie.title.isNotEmpty ? movie.title[0] : '?',
+                        ),
+                      );
+                    },
+                    errorBuilder: (context, error, stackTrace) {
+                      return Text(
+                        movie.title.isNotEmpty ? movie.title[0] : '?',
+                      );
+                    },
+                  ),
+                )
+              : Text(movie.title.isNotEmpty ? movie.title[0] : '?'),
         ),
-
         children: [
           Container(
             alignment: Alignment.center,
@@ -59,7 +78,7 @@ Card movieCard(Movie movie, BuildContext context, bool flag) {
                       );
                     },
                     child: Text('Read More'),
-                  )
+                  ),
               ],
             ),
           ),
